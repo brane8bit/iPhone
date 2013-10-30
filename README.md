@@ -7,9 +7,7 @@ iPhone
 #コミットログ
 コミットログのフォーマットは以下
 
-===
-@Type: [Change/Fix/Refactoring]
 
-@Content: ...変更内容を記載
-
-===
+>@Abstruct: [一行要旨]
+>@Type: [Change/Fix/Refactoring]
+>@Content: [変更内容の詳細]
